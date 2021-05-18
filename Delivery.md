@@ -191,7 +191,7 @@ Nmap done: 1 IP address (1 host up) scanned in 38.60 seconds
 
 **Enumeration:** 
 
- 
+ Using Osticket and Mattermost  (via email)
 
  ssh maildeliverer@10.10.10.222 
 
